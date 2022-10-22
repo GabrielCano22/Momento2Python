@@ -4,7 +4,7 @@
 
 ##  Éste es nuestro hermoso repositorio; fue hecho con mucho amor y cariño 
 
-<img src="https://images.memefier.com/media/django-summernote/2020-10-18/9a1c3591-4837-4c2a-be7b-04146638069b.jpg" width="500" height="400" alt="MEME PRESENTACIÓN"
+<img src="https://images.memefier.com/media/django-summernote/2020-10-18/9a1c3591-4837-4c2a-be7b-04146638069b.jpg" width="500" height="400" align="center" alt="MEME PRESENTACIÓN"/>
 
 ## Ejercicios
 ### 1.  Codificar un programa en Python utilizando funciones que permita
@@ -39,6 +39,12 @@ EL DESARROLLO +1
 <hr>
 
 ## Equipo de Trabajo
-#### Brayan Restrepo Isaza       <img src="https://img.wattpad.com/cover/303606253-256-k380414.jpg" width="200" height="200" alt="Caillou Brayan"/>
-#### Robinson Alexis Torres Zorrilla <img src="https://www.egames.news/__export/1644255730725/sites/debate/img/2022/02/07/sonic_raro.jpg_2114905497.jpg" width="200" height="200" alt="Sonic Logo Alexis"/>
-#### Gabriel Jaime Cano Oquendo <img src="https://pbs.twimg.com/media/FYqzY1HXgAAciu6?format=jpg&name=900x900" width="200" height="200" alt="Enano logo Gabriel"/>
+
+#### Brayan Restrepo Isaza 
+<img src="https://img.wattpad.com/cover/303606253-256-k380414.jpg" width="200" height="200" padding-left="30px" alt="Caillou Brayan"/>
+  
+#### Robinson Alexis Torres Zorrilla 
+<img src="https://www.egames.news/__export/1644255730725/sites/debate/img/2022/02/07/sonic_raro.jpg_2114905497.jpg" width="200" height="200" alt="Sonic Logo Alexis"/>
+  
+#### Gabriel Jaime Cano Oquendo 
+<img src="https://pbs.twimg.com/media/FYqzY1HXgAAciu6?format=jpg&name=900x900" width="200" height="200" alt="Enano logo Gabriel"/>
